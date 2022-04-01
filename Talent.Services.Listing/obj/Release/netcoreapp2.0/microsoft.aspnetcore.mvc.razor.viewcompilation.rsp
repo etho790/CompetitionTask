@@ -1,5 +1,5 @@
-D:\Competition-Task\Talent.Services.Listing
+D:\IndustryConnect-CompetitionTask\Talent.Services.Listing
 --output-path=obj\Release\netcoreapp2.0\
 --application-name=Talent.Services.Talent
---content-root=D:\Competition-Task\Talent.Services.Listing
+--content-root=D:\IndustryConnect-CompetitionTask\Talent.Services.Listing
 --file=

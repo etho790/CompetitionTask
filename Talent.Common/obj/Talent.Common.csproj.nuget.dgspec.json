@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Competition-Task\\Talent.Common\\Talent.Common.csproj": {}
+    "D:\\IndustryConnect-CompetitionTask\\Talent.Common\\Talent.Common.csproj": {}
   },
   "projects": {
-    "D:\\Competition-Task\\Talent.Common\\Talent.Common.csproj": {
+    "D:\\IndustryConnect-CompetitionTask\\Talent.Common\\Talent.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Competition-Task\\Talent.Common\\Talent.Common.csproj",
+        "projectUniqueName": "D:\\IndustryConnect-CompetitionTask\\Talent.Common\\Talent.Common.csproj",
         "projectName": "Talent.Common",
-        "projectPath": "D:\\Competition-Task\\Talent.Common\\Talent.Common.csproj",
+        "projectPath": "D:\\IndustryConnect-CompetitionTask\\Talent.Common\\Talent.Common.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Competition-Task\\Talent.Common\\obj\\",
+        "outputPath": "D:\\IndustryConnect-CompetitionTask\\Talent.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

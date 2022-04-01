@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lY/VDfa8OcX0sybsegvbu6uNSTuuXRZsVsSebLsD9GumcZh1oUSv7gc1zziCzyOR/CyTTx8N9qe9DdXT53zXNA==",
+  "dgSpecHash": "E8wO/3eVJXrERD1S1l6eJz9ydMAlb/sErpSyPP1WctBIq091KWdW584SyuwL2g1fMtqlmKrAJ/bsIVUkPGqP3A==",
   "success": true,
-  "projectFilePath": "D:\\Competition-Task\\Talent.Services.Identity\\Talent.Services.Identity.csproj",
+  "projectFilePath": "D:\\IndustryConnect-CompetitionTask\\Talent.Services.Identity\\Talent.Services.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\awssdk.core\\3.3.24\\awssdk.core.3.3.24.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\awssdk.s3\\3.3.18.3\\awssdk.s3.3.3.18.3.nupkg.sha512",

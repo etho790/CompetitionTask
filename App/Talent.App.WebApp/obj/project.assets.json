@@ -13162,11 +13162,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Competition-Task\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+      "projectUniqueName": "D:\\IndustryConnect-CompetitionTask\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
       "projectName": "Talent.App.WebApp",
-      "projectPath": "D:\\Competition-Task\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+      "projectPath": "D:\\IndustryConnect-CompetitionTask\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Competition-Task\\App\\Talent.App.WebApp\\obj\\",
+      "outputPath": "D:\\IndustryConnect-CompetitionTask\\App\\Talent.App.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -14236,11 +14236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Competition-Task\\Talent.Api\\Talent.Api.csproj",
+      "projectUniqueName": "D:\\IndustryConnect-CompetitionTask\\Talent.Api\\Talent.Api.csproj",
       "projectName": "Talent.Api",
-      "projectPath": "D:\\Competition-Task\\Talent.Api\\Talent.Api.csproj",
+      "projectPath": "D:\\IndustryConnect-CompetitionTask\\Talent.Api\\Talent.Api.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Competition-Task\\Talent.Api\\obj\\",
+      "outputPath": "D:\\IndustryConnect-CompetitionTask\\Talent.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -14262,8 +14262,8 @@
         "netcoreapp2.0": {
           "targetAlias": "netcoreapp2.0",
           "projectReferences": {
-            "D:\\Competition-Task\\Talent.Common\\Talent.Common.csproj": {
-              "projectPath": "D:\\Competition-Task\\Talent.Common\\Talent.Common.csproj"
+            "D:\\IndustryConnect-CompetitionTask\\Talent.Common\\Talent.Common.csproj": {
+              "projectPath": "D:\\IndustryConnect-CompetitionTask\\Talent.Common\\Talent.Common.csproj"
             }
           }
         }

@@ -8,3 +8,13 @@ D:\Competition-Task\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.Assemb
 D:\Competition-Task\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.csproj.CoreCompileInputs.cache
 D:\Competition-Task\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.dll
 D:\Competition-Task\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.pdb
+D:\IndustryConnect-CompetitionTask\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.deps.json
+D:\IndustryConnect-CompetitionTask\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.dll
+D:\IndustryConnect-CompetitionTask\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.pdb
+D:\IndustryConnect-CompetitionTask\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.csproj.AssemblyReference.cache
+D:\IndustryConnect-CompetitionTask\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\IndustryConnect-CompetitionTask\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.AssemblyInfoInputs.cache
+D:\IndustryConnect-CompetitionTask\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.AssemblyInfo.cs
+D:\IndustryConnect-CompetitionTask\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.csproj.CoreCompileInputs.cache
+D:\IndustryConnect-CompetitionTask\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.dll
+D:\IndustryConnect-CompetitionTask\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.pdb
