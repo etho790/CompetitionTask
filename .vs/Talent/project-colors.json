@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "407032f9-d495-496e-93d9-39e144e60823": {
+      "ProjectGuid": "407032f9-d495-496e-93d9-39e144e60823",
+      "DisplayName": "Talent.App.WebApp",
+      "ColorIndex": 0
+    },
+    "9e222117-5319-4b18-8182-169819f320c6": {
+      "ProjectGuid": "9e222117-5319-4b18-8182-169819f320c6",
+      "DisplayName": "Talent.Services.Talent",
+      "ColorIndex": 1
+    },
+    "f16231ea-e431-4b34-ab90-8d27c67060c3": {
+      "ProjectGuid": "f16231ea-e431-4b34-ab90-8d27c67060c3",
+      "DisplayName": "Talent.Services.Identity",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

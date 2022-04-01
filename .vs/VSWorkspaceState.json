@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App",
+    "\\App\\Talent.App.WebApp",
+    "\\App\\Talent.App.WebApp\\wwwroot",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Profile",
+    "\\Talent.Common",
+    "\\Talent.Services.Identity"
+  ],
+  "SelectedNode": "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Profile\\ContactDetail.jsx",
+  "PreviewInSolutionExplorer": false
+}
