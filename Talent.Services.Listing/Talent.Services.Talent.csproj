@@ -7,11 +7,14 @@
     <SccLocalPath>SAK</SccLocalPath>
   </PropertyGroup>
 
+
+  
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
     <AssemblyName>Talent.Services.Talent</AssemblyName>
     <RootNamespace>Talent.Services.Talent</RootNamespace>
+    <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
   </PropertyGroup>
 
   <ItemGroup>
@@ -38,3 +41,4 @@
   </ItemGroup>
 
 </Project>
+
