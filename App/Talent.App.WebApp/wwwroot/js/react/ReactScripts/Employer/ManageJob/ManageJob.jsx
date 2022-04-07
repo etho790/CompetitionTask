@@ -74,7 +74,7 @@ export default class ManageJob extends React.Component {
 
 
     loadData(callback) {
-        var link = 'http://localhost:51689/listing/listing/getSortedEmployerJobs';
+        var link = 'https://talentservicestalent20220407181101.azurewebsites.net/listing/listing/getSortedEmployerJobs';
         var cookies = Cookies.get('talentAuthToken');
        // your ajax call and other logic goes here
 
@@ -229,51 +229,12 @@ export default class ManageJob extends React.Component {
     }
 
     render() {
-        /*
-        //ADDED
-        const dateOptions = [
-            {
-                key: 'Newest first',
-                text: 'Newest first',
-                value: 'desc',
-            },
-            {
-                key: 'Oldest first',
-                text: 'Oldest first',
-                value: 'asc',
-            }
-        ]
-         //ADDED
-        const sortOptions = [
-            {
-                key: 'showActive',
-                text: 'Active',
-                value: 'showActive',
-            },
-            {
-                key: 'showClosed',
-                text: 'Closed',
-                value: 'showClosed',
-            },
-            {
-                key: 'showDraft',
-                text: 'Draft',
-                value: 'showDraft',
-            },
-            {
-                key: 'showExpired',
-                text: 'Expired',
-                value: 'showExpired',
-            },
-            {
-                key: 'Unexpired',
-                text: 'showUnexpired',
-                value: 'showUnexpired',
-            },
-        ]
-        */
+       
        var style ={             
-             paddingLeft: 100
+
+           paddingLeft: 100,
+           paddingBottom: 100,  //ADDED
+           paddingTop: 500,      //ADDED
        }
 
 
@@ -292,6 +253,7 @@ export default class ManageJob extends React.Component {
 
                 <Container style={style}>
                     <Pagination defaultActivePage={1} totalPages={this.state.loadJobs.length} />
+                    
                 </Container>
 
 

@@ -15,7 +15,17 @@
       "ProjectGuid": "f16231ea-e431-4b34-ab90-8d27c67060c3",
       "DisplayName": "Talent.Services.Identity",
       "ColorIndex": 2
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Script Documents",
+      "ColorIndex": 3
+    },
+    "ce8908da-4b2e-4418-8257-a162681e8b49": {
+      "ProjectGuid": "ce8908da-4b2e-4418-8257-a162681e8b49",
+      "DisplayName": "Talent.Services.Profile",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }

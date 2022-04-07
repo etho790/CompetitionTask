@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "TalentAppWebApp20220401152409",
+      "defaultValue": "TalentAppWebApp20220407181837",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }
