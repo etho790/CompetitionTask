@@ -7,10 +7,10 @@
     "\\App\\Talent.App.WebApp\\wwwroot\\js",
     "\\App\\Talent.App.WebApp\\wwwroot\\js\\react",
     "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts",
-    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Profile",
-    "\\Talent.Common",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Employer",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Employer\\ManageJob",
     "\\Talent.Services.Identity"
   ],
-  "SelectedNode": "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Profile\\ContactDetail.jsx",
+  "SelectedNode": "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Employer\\ManageJob\\ManageJob.jsx",
   "PreviewInSolutionExplorer": false
 }
