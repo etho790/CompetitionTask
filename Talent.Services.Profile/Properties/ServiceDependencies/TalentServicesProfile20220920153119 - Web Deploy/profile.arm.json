@@ -2,7 +2,7 @@
   "$schema": "https://schema.management.azure.com/schemas/2018-05-01/subscriptionDeploymentTemplate.json#",
   "contentVersion": "1.0.0.0",
   "metadata": {
-    "_dependencyType": "compute.appService.windows"
+    "_dependencyType": "appService.windows"
   },
   "parameters": {
     "resourceGroupName": {
@@ -14,14 +14,14 @@
     },
     "resourceGroupLocation": {
       "type": "string",
-      "defaultValue": "centralus",
+      "defaultValue": "eastus",
       "metadata": {
         "description": "Location of the resource group. Resource groups could have different location than resources, however by default we use API versions from latest hybrid profile which support all locations for resource types we support."
       }
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "TalentAppWebApp20220407181837",
+      "defaultValue": "TalentServicesProfile20220920153119",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }

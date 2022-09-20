@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="TalentServicesTalent20220407181101" tags="IisApp">
+  <parameter name="IIS Web Application Name" description="" value="TalentServicesTalent20220920152058" tags="IisApp">
     <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\IndustryConnect-CompetitionTask\\Talent\.Services\.Listing\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>

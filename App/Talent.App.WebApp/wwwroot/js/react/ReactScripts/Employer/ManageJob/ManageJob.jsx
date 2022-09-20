@@ -74,7 +74,7 @@ export default class ManageJob extends React.Component {
 
 
     loadData(callback) {
-        var link = 'https://talentservicestalent20220407181101.azurewebsites.net/listing/listing/getSortedEmployerJobs';
+        var link = 'https://TalentServicesTalent20220920152058.azurewebsites.net/listing/listing/getSortedEmployerJobs';
         var cookies = Cookies.get('talentAuthToken');
        // your ajax call and other logic goes here
 

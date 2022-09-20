@@ -9,8 +9,11 @@
     "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts",
     "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Employer",
     "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Employer\\ManageJob",
-    "\\Talent.Services.Identity"
+    "\\Talent.Common",
+    "\\Talent.Services.Identity",
+    "\\Talent.Services.Listing",
+    "\\Talent.Services.Profile"
   ],
-  "SelectedNode": "\\App\\Talent.App.WebApp\\wwwroot\\js\\react\\ReactScripts\\Employer\\ManageJob\\ManageJob.jsx",
+  "SelectedNode": "\\Talent.sln",
   "PreviewInSolutionExplorer": false
 }

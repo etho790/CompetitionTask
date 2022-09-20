@@ -81,24 +81,24 @@ export default class TalentMatching extends React.Component {
     //        });
     //}
 
-    //loadJobs(data) { // url: 'https://talentservicestalent20220407181101.azurewebsites.net/listing/listing/getEmployerJobs',
+    //loadJobs(data) { // url: 'https://TalentServicesTalent20220920152058.azurewebsites.net/listing/listing/getEmployerJobs',
         
-    //loadSelectedJob(data) url: 'https://talentservicestalent20220407181101.azurewebsites.net/listing/listing/getJobForTalentMatching',
+    //loadSelectedJob(data) url: 'https://TalentServicesTalent20220920152058.azurewebsites.net/listing/listing/getJobForTalentMatching',
 
-    //loadTalentList()  url: 'https://talentservicesprofile20220407181304.azurewebsites.net/profile/profile/getTalentList',
+    //loadTalentList()  url: 'https://TalentServicesProfile20220920153119.azurewebsites.net/profile/profile/getTalentList',
 
-    //loadTalentFilterList() //url: 'https://talentservicesprofile20220407181304.azurewebsites.net/profile/profile/getTalentListFilter',
+    //loadTalentFilterList() //url: 'https://TalentServicesProfile20220920153119.azurewebsites.net/profile/profile/getTalentListFilter',
 
-    //loadEmployerFilterList() //url: 'https://talentservicesprofile20220407181304.azurewebsites.net/profile/profile/getEmployerListFilter',
+    //loadEmployerFilterList() //url: 'https://TalentServicesProfile20220920153119.azurewebsites.net/profile/profile/getEmployerListFilter',
 
 
-    // loadEmployerList() // url: 'https://talentservicesprofile20220407181304.azurewebsites.net/profile/profile/getEmployerList',
-    //loadSuggestionList   url: 'https://talentservicesprofile20220407181304.azurewebsites.net/profile/profile/getSuggestionList',
+    // loadEmployerList() // url: 'https://TalentServicesProfile20220920153119.azurewebsites.net/profile/profile/getEmployerList',
+    //loadSuggestionList   url: 'https://TalentServicesProfile20220920153119.azurewebsites.net/profile/profile/getSuggestionList',
 
-   // saveCompanyTalents()   url: 'https://talentservicesprofile20220407181304.azurewebsites.net/profile/profile/addTalentSuggestions',
+   // saveCompanyTalents()   url: 'https://TalentServicesProfile20220920153119.azurewebsites.net/profile/profile/addTalentSuggestions',
      
 
-    //saveJobTalents()    url: 'https://talentservicesprofile20220407181304.azurewebsites.net/profile/profile/addTalentSuggestions',
+    //saveJobTalents()    url: 'https://TalentServicesProfile20220920153119.azurewebsites.net/profile/profile/addTalentSuggestions',
        
 
     
