@@ -85,20 +85,20 @@ export default class TalentMatching extends React.Component {
         
     //loadSelectedJob(data) url: 'https://TalentServicesTalent20220920152058.azurewebsites.net/listing/listing/getJobForTalentMatching',
 
-    //loadTalentList()  url: 'https://TalentServicesProfile20220920153119.azurewebsites.net/profile/profile/getTalentList',
+    //loadTalentList()  url: 'https://talentservicesprofile20220920153119.azurewebsites.net/profile/profile/getTalentList',
 
-    //loadTalentFilterList() //url: 'https://TalentServicesProfile20220920153119.azurewebsites.net/profile/profile/getTalentListFilter',
+    //loadTalentFilterList() //url: 'https://talentservicesprofile20220920153119.azurewebsites.net/profile/profile/getTalentListFilter',
 
-    //loadEmployerFilterList() //url: 'https://TalentServicesProfile20220920153119.azurewebsites.net/profile/profile/getEmployerListFilter',
+    //loadEmployerFilterList() //url: 'https://talentservicesprofile20220920153119.azurewebsites.net/profile/profile/getEmployerListFilter',
 
 
-    // loadEmployerList() // url: 'https://TalentServicesProfile20220920153119.azurewebsites.net/profile/profile/getEmployerList',
-    //loadSuggestionList   url: 'https://TalentServicesProfile20220920153119.azurewebsites.net/profile/profile/getSuggestionList',
+    // loadEmployerList() // url: 'https://talentservicesprofile20220920153119.azurewebsites.net/profile/profile/getEmployerList',
+    //loadSuggestionList   url: 'https://talentservicesprofile20220920153119.azurewebsites.net/profile/profile/getSuggestionList',
 
-   // saveCompanyTalents()   url: 'https://TalentServicesProfile20220920153119.azurewebsites.net/profile/profile/addTalentSuggestions',
+   // saveCompanyTalents()   url: 'https://talentservicesprofile20220920153119.azurewebsites.net/profile/profile/addTalentSuggestions',
      
 
-    //saveJobTalents()    url: 'https://TalentServicesProfile20220920153119.azurewebsites.net/profile/profile/addTalentSuggestions',
+    //saveJobTalents()    url: 'https://talentservicesprofile20220920153119.azurewebsites.net/profile/profile/addTalentSuggestions',
        
 
     
